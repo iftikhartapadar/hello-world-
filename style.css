@@ -198,3 +198,7 @@ a:hover {
     height: 50px;
     font-size: 40px;
 }
+
+p {
+    font-family: 'Poppins', sans-serif;
+}
